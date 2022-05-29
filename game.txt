@@ -1,0 +1,1 @@
+ner.instance_.gameOver = function(){};
